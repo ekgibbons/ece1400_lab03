@@ -1,4 +1,4 @@
-# ece1400_fa20_lab03
+# ece1400_lab03
 
 This is a simple repository to make sure that everybody is able to use GitHub classrooms.  
 
